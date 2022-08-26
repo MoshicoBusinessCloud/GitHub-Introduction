@@ -11,11 +11,11 @@ Butter
 Water
 Milk
 Juice
-
-
-
-
-
+Gum
+Candy
+Peanuts
+Bag of Carrots 
+Gag of Berries
 Can of Coke
 Bottle of wine
 Fat Free Hot Dog
