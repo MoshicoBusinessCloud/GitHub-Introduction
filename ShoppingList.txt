@@ -14,3 +14,5 @@ Juice
 Gum
 Candy
 Peanuts
+Bag of Carrots 
+Gag of Berries
