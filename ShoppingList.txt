@@ -16,3 +16,7 @@ Candy
 Peanuts
 Bag of Carrots 
 Gag of Berries
+Can of Coke
+Bottle of wine
+Fat Free Hot Dog
+Bag of Corn
