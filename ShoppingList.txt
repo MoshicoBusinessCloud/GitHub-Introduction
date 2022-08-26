@@ -8,3 +8,6 @@ Fish
 Grapes
 Apples
 Butter
+Water
+Milk
+Juice
