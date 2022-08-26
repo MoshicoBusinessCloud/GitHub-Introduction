@@ -11,3 +11,6 @@ Butter
 Water
 Milk
 Juice
+Gum
+Candy
+Peanuts
