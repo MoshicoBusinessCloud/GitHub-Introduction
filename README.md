@@ -6,6 +6,7 @@ My first GitHub repository
 My very first Git Repo
 
 
-## Local Development
+## Local Department Development
 
-1. Open index.html in your browser
+1. Open index.html in your browser.
+2. Close index.html on your browser.
